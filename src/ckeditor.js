@@ -67,7 +67,7 @@ ClassicEditor.builtinPlugins = [
 ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
-			'restrictedEditing',
+			//'restrictedEditing',
 			'heading',
 			'|',
 			'bold',
