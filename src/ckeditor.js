@@ -59,7 +59,7 @@ ClassicEditor.builtinPlugins = [
 	Table,
 	TableToolbar,
 	TextTransformation,
-//	RestrictedEditingMode,
+	RestrictedEditingMode,
 	StandardEditingMode
 ];
 
