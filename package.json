@@ -72,5 +72,7 @@
     "build": "webpack --mode production",
     "preversion": "npm run build"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@ckeditor/ckeditor5-html-support": "^29.0.0"
+  }
 }
